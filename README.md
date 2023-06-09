@@ -14,7 +14,8 @@ http://localhost/login-remember-me
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/import-export-databases/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/login-remember-me/main/Screenshots/Output-01.png)
+![](https://raw.githubusercontent.com/codehafeez/login-remember-me/main/Screenshots/Output-02.png)
 
 
 ## 🔗 www.codehafeez.com
