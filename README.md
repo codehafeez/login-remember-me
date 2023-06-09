@@ -1,4 +1,4 @@
-# PHP Simple Example - Login Remember Me
+# PHP Simple Example - Login Session Remember Me
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.codehafeez.com/)
 
